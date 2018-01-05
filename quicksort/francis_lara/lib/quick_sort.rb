@@ -1,5 +1,3 @@
-require 'byebug'
-
 class QuickSort
   # Quick sort has average case time complexity O(nlogn), but worst
   # case O(n**2).
